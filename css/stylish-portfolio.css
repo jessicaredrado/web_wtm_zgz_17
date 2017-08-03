@@ -257,6 +257,16 @@ hr.small {
     margin-bottom: 30px;
 }
 
+/* Sponsors */
+
+.sponsors {
+    padding: 50px 0;
+}
+
+.sponsor-item {
+    margin-bottom: 30px;
+}
+
 /* Footer */
 
 footer {

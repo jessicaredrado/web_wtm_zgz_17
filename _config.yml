@@ -98,3 +98,33 @@ speakers:
   - name: Nombre Ponente 13
     text: Texto Ponente 13
     image: fa-cloud
+
+#List for sponsors
+sponsors:
+  - name: Nombre Patrocinador 1
+    text: Texto Patrocinador 1
+    image: fa-cloud
+  - name: Nombre Patrocinador 2
+    text: Texto Patrocinador 2
+    image: fa-compass
+  - name: Nombre Patrocinador 3
+    text: Texto Patrocinador 3
+    image: fa-flask
+  - name: Nombre Patrocinador 4
+    text: Texto Patrocinador 4
+    image: fa-shield
+  - name: Nombre Patrocinador 12
+    text: Texto Patrocinador 12
+    image: fa-cloud
+  - name: Nombre Patrocinador 22
+    text: Texto Patrocinador 22
+    image: fa-compass
+  - name: Nombre Patrocinador 32
+    text: Texto Patrocinador 32
+    image: fa-flask
+  - name: Nombre Patrocinador 42
+    text: Texto Patrocinador 42
+    image: fa-shield
+  - name: Nombre Patrocinador 13
+    text: Texto Patrocinador 13
+    image: fa-cloud
