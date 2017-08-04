@@ -100,7 +100,48 @@ speakers:
     image: fa-cloud
 
 #List for sponsors
-sponsors:
+sponsors_platinum:
+  - name: Nombre Patrocinador 1
+    text: Texto Patrocinador 1
+    image: fa-cloud
+  - name: Nombre Patrocinador 2
+    text: Texto Patrocinador 2
+    image: fa-compass
+  - name: Nombre Patrocinador 3
+    text: Texto Patrocinador 3
+    image: fa-flask
+  - name: Nombre Patrocinador 4
+    text: Texto Patrocinador 4
+    image: fa-shield
+
+sponsors_gold:
+  - name: Nombre Patrocinador 1
+    text: Texto Patrocinador 1
+    image: fa-cloud
+  - name: Nombre Patrocinador 2
+    text: Texto Patrocinador 2
+    image: fa-compass
+  - name: Nombre Patrocinador 3
+    text: Texto Patrocinador 3
+    image: fa-flask
+  - name: Nombre Patrocinador 4
+    text: Texto Patrocinador 4
+    image: fa-shield
+  - name: Nombre Patrocinador 12
+    text: Texto Patrocinador 12
+    image: fa-cloud
+
+sponsors_silver:
+  - name: Nombre Patrocinador 1
+    text: Texto Patrocinador 1
+    image: fa-cloud
+  - name: Nombre Patrocinador 2
+    text: Texto Patrocinador 2
+    image: fa-compass
+  - name: Nombre Patrocinador 3
+    text: Texto Patrocinador 3
+
+sponsors_others:
   - name: Nombre Patrocinador 1
     text: Texto Patrocinador 1
     image: fa-cloud
