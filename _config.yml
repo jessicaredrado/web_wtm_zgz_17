@@ -36,7 +36,7 @@ intro_event:
 event_infos:
   - title: ¿Qué es Women Techmakers?
     content: Se trata de una iniciativa promovida a nivel global por Google para <strong>visibilizar a las mujeres</strong> en el ámbito de la tecnología.<br/><br/>Women Techmakers quiere crear una comunidad con visibilidad, generando recursos que impulsen la innovación y la participación de las mujeres en este campo.<br/>
-    image: img/services/organizersmad.jpg
+    image: img/services/speakers.jpg
   - title: ¿A quién está dirigido el evento?
     content: Se trata de un <strong>evento abierto</strong> a cualquier persona interesada en el mundo de la tecnología.<br/><br/>Queremos abarcar diferentes temas como <strong>nuevas tecnologías, agile, comunicación, desarrollo web, UX</strong> o cualquier tema interesante del sector.<br/><br/>La asistencia al evento está abierta tanto a hombres como a mujeres, pero las ponentes serán únicamente mujeres, ya que uno de los objetivos es darles visibilidad así como ofrecer ayuda y colaboración.
     image: img/services/audience.jpg
@@ -51,7 +51,7 @@ event_infos:
     image: img/imgs_dossier/MapaSpainWTM.jpg
   - title: WTM Madrid 2017
     content: Consiguió <strong>más de 33 ponentes</strong>.<br/><br/>El 60% de las ponentes dieron una charla por primera vez.<br/><br/>Ampliaron el círculo de networking de muchas mujeres.<br/><br/>Ayudaron a las empresas a <strong>encontrar mujeres profesionales</strong> en el sector de la tecnología.<br/><br/>También nos dieron el empujón para que este año organicemos Women Techmakers Zaragoza.
-    image: img/services/speakers.jpg
+    image: img/services/organizersmad.jpg
 
 #List for organizers
 organizers:
