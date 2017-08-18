@@ -3,7 +3,7 @@
 {% for event_info in site.event_infos %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
-    <div class="content-section-a">
+    <div class="content-section-b">
 
         <div class="container">
 
@@ -15,7 +15,8 @@
                     <div class="lead">{{ event_info.content }}</div>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/services/{{ event_info.image }}" alt="">
+                    <div class="clear-130 hidden-xs"></div>
+                    <img class="img-responsive" src="{{ event_info.image }}" alt="">
                 </div>
             </div>
 
@@ -26,7 +27,7 @@
     <!-- /.content-section-a -->
     {% else %}
 
-    <div class="content-section-b">
+    <div class="content-section-a">
 
         <div class="container">
 
@@ -38,7 +39,8 @@
                     <div class="lead">{{ event_info.content }}</div>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                  <img class="img-responsive" src="img/services/{{ event_info.image }}" alt="">
+                  <div class="clear-130 hidden-xs" ></div>
+                  <img class="img-responsive" src="{{ event_info.image }}" alt="">
                 </div>
             </div>
 
