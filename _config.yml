@@ -28,6 +28,8 @@ google_api_key:
 markdown: kramdown
 theme: 
 
+#Dates
+end_c4p: 08/09/2017 11:00:00
 
 #Introduction
 intro_event:
