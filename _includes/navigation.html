@@ -28,7 +28,6 @@
     <!-- Comparamos las fechas para despublicar el C4P en la fecha correcta -->
     {% capture now %}{{ site.time | date: '%d/%m/%Y %T' }}{% endcapture %}
     {% capture end_c4p %}{{ site.end_c4p | date: '%d/%m/%Y %T' }}{% endcapture %}
-    <li>{{now}}</li>
     {% if end_c4p > now %}
     <!-- Si aun no se ha cerrado el C4P mantenemos la info para enviar la propuesta -->
     <li>
