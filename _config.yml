@@ -21,6 +21,9 @@ address:
 telephone:
 copyright:
 
+# Timezone
+timezone: Europe/Madrid
+
 # API settings
 google_api_key:
 
