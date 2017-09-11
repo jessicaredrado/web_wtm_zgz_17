@@ -27,9 +27,13 @@
     -->
     <!-- Comparamos las fechas para despublicar el C4P en la fecha correcta -->
     {% capture now %}{{ site.time | date: '%d/%m/%Y %T' }}{% endcapture %}
+    {% capture today %}{{ now | date: '%d/%m/%Y %T' }}{% endcapture %}
     {% capture end_c4p %}{{ site.end_c4p | date: '%d/%m/%Y %T' }}{% endcapture %}
     <li>
       {{ now }}
+    </li>
+    <li>
+      {{ today }}
     </li>
     <li>
       {{ end_c4p }}
