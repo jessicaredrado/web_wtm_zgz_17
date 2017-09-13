@@ -29,15 +29,7 @@
     {% capture now %}{{ site.time | date: '%d/%m/%Y %T' }}{% endcapture %}
     {% capture today %}{{ "today" | date: '%d/%m/%Y %T' }}{% endcapture %}
     {% capture end_c4p %}{{ site.end_c4p | date: '%d/%m/%Y %T' }}{% endcapture %}
-    <li>
-      {{ now }}
-    </li>
-    <li>
-      {{ today }}
-    </li>
-    <li>
-      {{ end_c4p }}
-    </li>
+    
     {% if end_c4p > now %}
     <!-- Si aun no se ha cerrado el C4P mantenemos la info para enviar la propuesta -->
     <li>
