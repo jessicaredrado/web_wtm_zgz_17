@@ -112,22 +112,24 @@ speakers:
 
 #List for sponsors
 sponsors_platinum:
-  - name: Aparece aquí!!
-    text: Aparece aquí!!
-    image: fa-cloud
 
 sponsors_gold:
-  - name: Aparece aquí!!
-    text: Aparece aquí!!
-    image: fa-cloud
+  - name: Hiberus Tecnologia
+    text: 
+    image: img/patrocinadores/gold/hiberus_1.png
+    web: https://www.hiberus.com/hiberus-tecnologia
+    twitter: hiberus
+  - name: Polux Solutions
+    text: 
+    image: img/patrocinadores/gold/polux_1.jpg
+    web: http://www.polux-solutions.com/Index.aspx
+    twitter: 
 
 sponsors_silver:
-  - name: Aparece aquí!!
-    text: Aparece aquí!!
-    image: fa-cloud
-
+  - name: Usit Development
+    text: 
+    image: img/patrocinadores/silver/usit.png
+    web: http://usitdevelopment.com/
+    twitter:
 
 sponsors_others:
-  - name: Aparece aquí!!
-    text: Aparece aquí!!
-    image: fa-cloud
