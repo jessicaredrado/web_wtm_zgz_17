@@ -13,7 +13,9 @@
   {% include countdown.html %}
   {% include code_of_conduct.html %}
   {% include event_info.html %}
+  {% comment %}
   {% include agenda.html %}
+  {% endcomment %}
   
   <!-- Comparamos las fechas para despublicar el C4P en la fecha correcta -->
   {% capture now %}{{ site.time | date: '%d/%m/%Y %T' }}{% endcapture %}
