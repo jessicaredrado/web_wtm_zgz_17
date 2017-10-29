@@ -201,10 +201,10 @@ speakers:
     twitter_account: 
     linkedin_account:
   - name: Carmen Lopez
-    bio: 'Nací en Zaragoza hace 37 años. Estudié Ingeniería Informática en la Universidad de Zaragoza por casualidad... O quizás no: con 9 años ya hacía mis pinitos en Basic con mi Amstrad CPC 6128.<br/>Tengo un postgrado en Recursos Humanos y Operaciones por la Universidad Autónoma de Barcelona. Los últimos 10 años me dedicado a la consultoría interna en una multinacional farmacéutica. <br/>Hace un año decidí dar un giro de 180º a mi carrera y volver a "los orígenes". Ahora me dedico a la ciberseguridad, formándome en un área extensa y apasionante que está en continua evolución.'
-    image:
+    bio: 'Originaria de Zaragoza, me licencié en Ingeniería Informática en su universidad casi por casualidad... O quizás no: con 9 años ya hacía mis pinitos en Basic con mi Amstrad CPC 6128.<br/>Durante 10 años fui consultora interna en una multinacional farmacéutica dando soporte desde IT al departamento de Recursos Humanos.<br/>Hace un año decidí dar un giro de 180º a mi carrera y volver a "los orígenes". Ahora me dedico a la ciberseguridad y la protección de datos, formándome en un área extensa y apasionante que está en continua evolución.'
+    image: img/ponentes/carmen_lopez.jpg
     twitter_account: carmenzta
-    linkedin_account:
+    linkedin_account: carmen-lópez-16a5824
 #  - name: María Pilar Lozano Bernal
 #    bio: 
 #    image:
@@ -234,6 +234,11 @@ speakers:
     bio: 'Estudié Bellas Artes en la Universidad de Zaragoza donde principalmente empleé como medio de expresión el video y la fotografía. Tras finalizar mis estudios, me trasladé a Berlin y comencé a interesarme en el arte digital, instalaciones interactivas y proyectos artísticos en los que se proponen nuevas formas de interacción y se cuestionan las existentes. Este interés me llevo a comenzar el master en artes digitales Interface Cultures en la Kunstuni de Linz (Austria) y a comenzar Ingeniería Informática por la UNED. Actualmente, estoy escribiendo mi trabajo fin de master, en el que las interferencias generadas en la comunicación humana son consideradas como motor e inspiración para crear nuevas interfaces.'
     image: img/ponentes/marta_perez.jpg
     twitter_account: 
+    linkedin_account:
+  - name: Cristina Pérez Galán
+    bio: 'Cristina Pérez Galán (Zaragoza, 1983) es Dra. en Historia Medieval y Máster en Comunicación y Periodismo por la Universidad de Zaragoza. Ha trabajado en diversos medios de comunicación (Cadena Ser, Aragón Televisión) y en la Universidad de Zaragoza. En Torresburriel Estudio se ocupa del research y el testing, y además es la responsable de UX Learn, la división de formación online de la compañía.'
+    image: img/ponentes/cristina_perez.png
+    twitter_account: cristinapg
     linkedin_account:
   - name: Pixel y Pincel
     bio: 'Pixel y Pincel es una empresa que estimula y potencia la creatividad a través de las nuevas tecnologías, para que todos aprendan a utilizarla como herramienta educación y comunicación. En Pixel y Pincel piensan que la creatividad es importante, por eso trabajan en ayudar a la gente a desarrollar la suya con talleres y además, ponen esa creatividad a disposición de empresas o particulares que la necesiten.'
@@ -265,11 +270,11 @@ speakers:
     image: img/ponentes/maria_villaroya.jpg
     twitter_account: mvgaudo
     linkedin_account:
-  - name: Ms von Disko
-    bio: 'Desde hace unos años la dj y promotora Ms von Disko - fundadora y copropietaria del colectivo y club Face Down Ass Up - se ha establecido como una de las principales innovadoras de la escena bass. Su catálogo musical le ha llevado a ser residente de las fiestas Cream de Pacha Ibiza, viajar por ciudades europeas como Berlin, Bristol o Guimaraes así como por la gran mayoría de clubs españoles y festivales como Magma, Electrosplash o FIZ.<br/>Un catálogo que recuerda al presente pero que siempre mira al futuro y que gira entorno al rap de la costa oeste norteamericana, al sonido UK,  a la estética de club de los 90 y que se expresa mediante trap, jersey club, bass house, grime, footwork o techno uniéndolo a un sin fin de estilos.'
-    image: 
-    twitter_account: msvondisko
-    linkedin_account:
+#  - name: Ms von Disko
+#    bio: 'Desde hace unos años la dj y promotora Ms von Disko - fundadora y copropietaria del colectivo y club Face Down Ass Up - se ha establecido como una de las principales innovadoras de la escena bass. Su catálogo musical le ha llevado a ser residente de las fiestas Cream de Pacha Ibiza, viajar por ciudades europeas como Berlin, Bristol o Guimaraes así como por la gran mayoría de clubs españoles y festivales como Magma, Electrosplash o FIZ.<br/>Un catálogo que recuerda al presente pero que siempre mira al futuro y que gira entorno al rap de la costa oeste norteamericana, al sonido UK,  a la estética de club de los 90 y que se expresa mediante trap, jersey club, bass house, grime, footwork o techno uniéndolo a un sin fin de estilos.'
+#    image: 
+#    twitter_account: msvondisko
+#    linkedin_account:
 
 #List for sponsors
 sponsors_platinum:
