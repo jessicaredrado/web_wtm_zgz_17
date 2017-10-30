@@ -167,7 +167,7 @@ speakers:
     linkedin_account:
 #  - name: Maria Jesus Fernandez
 #    bio: 
-#    image:
+#    image: img/ponentes/maria_jesus_fernandez.jpg
 #    twitter_account: 
 #    linkedin_account:
   - name: Raquel Garcia Escobedo
@@ -237,7 +237,7 @@ speakers:
     linkedin_account:
   - name: Cristina Pérez Galán
     bio: 'Cristina Pérez Galán (Zaragoza, 1983) es Dra. en Historia Medieval y Máster en Comunicación y Periodismo por la Universidad de Zaragoza. Ha trabajado en diversos medios de comunicación (Cadena Ser, Aragón Televisión) y en la Universidad de Zaragoza. En Torresburriel Estudio se ocupa del research y el testing, y además es la responsable de UX Learn, la división de formación online de la compañía.'
-    image: img/ponentes/cristina_perez.png
+    image: img/ponentes/cristina_perez.jpg
     twitter_account: cristinapg
     linkedin_account:
   - name: Pixel y Pincel
@@ -388,33 +388,47 @@ talks_track_1:
     twitter_speaker: 
   - time: 10:00-10:25
     track: 1
-    name: Más de 10 años acercando la tecnología a las chicas en Aragón
-    descrip: 'Será una síntesis de las actividades que desde AMIT-Aragón realizamos para acercar la ingeniería y la tecnología a la sociedad y en particular para que más chicas se animen a realizar estudios técnicos. Más de una década de experiencias, análisis y bastante trabajo.'
+    name: Charla
+    descrip: 
     speaker: Maria Villaroya
     bio_speaker: 
     twitter_speaker: 
-  - time: 10:25-10:45
+  - time: 10:25-10:30
     track: 1
-    name: Platinum
+    name: 5 minutos presentacion patrocinio
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 10:45-11:05
+  - time: 10:30-10:55
     track: 1
-    name: Platinum
+    name: Charla
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 11:05-11:20
+  - time: 10:55-11:05
     track: 1
-    name: El "toque" Marie Curie
+    name: Charla
     descrip: 
-    speaker: Mayte Ortí
+    speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 11:20-12:00
+  - time: 11:55-11:10
+    track: 1
+    name: 5 minutos presentacion patrocinio
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 11:10-11:15
+    track: 1
+    name: 5 minutos presentacion patrocinio
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 11:15-12:00
     track: all
     name: DESCANSO CAFÉ
     descrip: 
@@ -423,40 +437,47 @@ talks_track_1:
     twitter_speaker: 
   - time: 12:00-12:25
     track: 1
-    name: No, este robot no lo ha hecho mi hermano
+    name: Charla
     descrip: 
     speaker: Valeria Corrales
     bio_speaker: 
     twitter_speaker: 
-  - time: 12:25-12:45
+  - time: 12:25-12:30
     track: 1
-    name: Platinum
+    name: 5 minutos presentacion patrocinio
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 12:45-13:05
+  - time: 12:30-12:55
     track: 1
-    name: Sistemas de navegación por satélite europeos
-    descrip: 'Hoy en día todos conocemos GPS y lo utilizamos en nuestro día a día. Pero, ¿sabemos qué es EGNOS? GPS tiene un inconveniente, no nos ofrece un posicionamiento íntegro y por tanto no puede utilizarse en aplicaciones críticas como en aviación (aterrizaje y despegue). Por eso, la Comisión Europea nos ofrece un sistema de navegación europeo gratuito que se llama EGNOS, que mejora la solución de GPS y ofrece Integridad para que pueda utilizarse en aplicaciones críticas. A parte, la Comisión Europea está actualmente desplegando el sistema Galileo, un sistema de posicionamiento global similar al americano GPS que incorporará diversas ventajas. Considerando todas las iniciativas de navegación por satélite que están desplegando todos los países (China, Rusia, Europa, Estados Unidos…), los receptores de la próxima década van a tener cientos posibilidades de posicionamiento por satélite!'
+    name: Charla
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 12:55-13:20
+    track: 1
+    name: Charla
+    descrip: 
     speaker: Elisabet Lacarra
     bio_speaker: 
     twitter_speaker: 
-  - time: 13:05-13:30
+  - time: 13:20-13:25
     track: 1
-    name: Cómo Youtube nos ayuda a conseguir nuestros sueños
-    descrip: 'Voy a hablar sobre como se puede aprender de todo a través de youtube de manera gratuita, porqué todo el mundo debería realizar un proyecto personal, la necesidad de tener foco para sacarle partido a estos recursos y sobre la necesidad de pedir ayuda.'
-    speaker: Lucia Sanchez
-    bio_speaker: 
-    twitter_speaker: 
-  - time: 13:30-13:55
-    track: 1
-    name: Platinum
+    name: 5 minutos presentacion patrocinio
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 13:55-15:30
+  - time: 13:25-13:50
+    track: 1
+    name: Charla
+    descrip: 
+    speaker: Lucia Sanchez
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 13:50-15:30
     track: all
     name: COMIDA
     descrip: 
@@ -465,33 +486,40 @@ talks_track_1:
     twitter_speaker: 
   - time: 15:30-15:55
     track: 1
-    name: Directora de Aenor
+    name: Charla
     descrip: 
     speaker: Marisa Claver Baron
     bio_speaker: 
     twitter_speaker: 
-  - time: 15:55-16:20
+  - time: 15:55-16:05
     track: 1
-    name: Aprendiendo a que los ordenadores aprendan
-    descrip: 'Desde películas clásicas de ciencia ficción a los últimos artículos científicos, la inteligencia artificial es un concepto muy presente hoy en día. Pero: ¿cómo podemos enseñar a los ordenadores y cómo éstos aprenden? A día de hoy, todavía no sabemos como funciona al 100% nuestro cerebro ni cómo aprende, sin embargo, sabemos muy bien que los humanos aprendemos a base de ejemplos y repetición. El "aprendizaje automático" aplica esta misma técnica pero a los ordenadores, de manera que se están obteniendo mejores resultados que los que se conseguían hasta hace unos pocos años. Durante la charla presentaré el concepto de aprendizaje automático y "deep learning", mostraré casos de aplicación y alguna como de librerías y/o herramienta disponibles.'
+    name: Charla
+    descrip: 
     speaker: Ana Belén Cambra Linés
     bio_speaker: 
     twitter_speaker: 
-  - time: 16:20-16:45
+  - time: 16:05-16:10
     track: 1
-    name: Platinum
+    name: 5 minutos presentacion patrocinio
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 16:45-17:05
+  - time: 16:10-16:35
     track: 1
-    name: Mi viaje del desarrollo al diseño y todo lo que aprendí por el camino
+    name: Charla
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 16:35-17:00
+    track: 1
+    name: Charla
     descrip: 
     speaker: Lucia Gomez Lopez
     bio_speaker: 
     twitter_speaker: 
-  - time: 17:05-17:25
+  - time: 17:00-17:25
     track: all
     name: DESCANSO CAFÉ
     descrip: 
@@ -500,33 +528,19 @@ talks_track_1:
     twitter_speaker: 
   - time: 17:25-17:50
     track: 1
-    name: Cambia la N de no puedo por la y de yo puedo
+    name: Charla
     descrip: 
     speaker: Mireia Cabañes
     bio_speaker: 
     twitter_speaker: 
   - time: 17:50-18:15
-    track: 1
-    name: Women in New Media Art
-    descrip: 'Parte del Grupo de Investigación Interfaces y Nuevos Medios  (MIDE, UCLM), liderado por J.R. Alcalá donde realizan diversas investigaciones sobre New Media Art. Asimismo, como miembro del equipo de trabajo en el Proyecto de Excelencia MINECO que lleva por título “Archivo Español de Media Art”, ha realizado la catalogación y registro de todas las obras artísticas creadas o expuestas en Etopia Centro de Arte y Tecnología (Zaragoza) desde su apertura hasta la actualidad.'
-    speaker: Maria Blasco
-    bio_speaker: 
-    twitter_speaker: 
-  - time: 18:15-18:40
-    track: 1
-    name: Cuando las mujeres coordinan una startup
-    descrip: 
-    speaker: Cynthia Galvez y Diana Ruiz
-    bio_speaker: 
-    twitter_speaker: 
-  - time: 18:40-19:00
     track: all
     name: MONOLOGOS
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: '19:00'
+  - time: '18:15-19:00'
     track: all
     name: CIERRE
     descrip: 
@@ -551,33 +565,47 @@ talks_track_2:
     twitter_speaker: 
   - time: 10:00-10:25
     track: 2
-    name: Usos inesperados para objetos comunes
+    name: Charla
     descrip: 
-    speaker: Marta Perez Campos
+    speaker: Maria Villaroya
     bio_speaker: 
     twitter_speaker: 
-  - time: 10:25-10:45
+  - time: 10:25-10:30
     track: 2
-    name: 
+    name: 5 minutos presentacion patrocinio
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 10:45-11:05
+  - time: 10:30-10:55
     track: 2
-    name: 
+    name: Charla
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 11:05-11:20
+  - time: 10:55-11:05
     track: 2
-    name: Cómo hacer que alguien de letras se interese por la ciencia a través de la tecnología
+    name: Charla
     descrip: 
-    speaker: Marta Azanza
+    speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 11:20-12:00
+  - time: 11:55-11:10
+    track: 2
+    name: 5 minutos presentacion patrocinio
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 11:10-11:15
+    track: 2
+    name: 5 minutos presentacion patrocinio
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 11:15-12:00
     track: all
     name: DESCANSO CAFÉ
     descrip: 
@@ -586,40 +614,47 @@ talks_track_2:
     twitter_speaker: 
   - time: 12:00-12:25
     track: 2
-    name: Marketing analítico:usando los datos para vender más
-    descrip: '¿Qué papel juegan los datos hoy en día en el marketing online?. Acompáñanos en este viaje para descubrir diferentes herramientas para obtener información y aprender a utilizarla para conseguir vender más en Internet. Hablaremos de cómo busca la gente en los buscadores, de publicidad online o de analítica web, para ver cómo cualquier proyecto web, por pequeño que sea, puede beneficiarse de esta información disponible y mejorar sus resultados.'
-    speaker: Silvia Casas Cañadas
+    name: Charla
+    descrip: 
+    speaker: Valeria Corrales
     bio_speaker: 
     twitter_speaker: 
-  - time: 12:25-12:45
+  - time: 12:25-12:30
     track: 2
-    name: 
+    name: 5 minutos presentacion patrocinio
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 12:45-13:05
+  - time: 12:30-12:55
     track: 2
-    name: Tecnología y diseño 3D aplicado a escenografía y la tematización
-    descrip: 
-    speaker: Irene Luzan Gallego
-    bio_speaker: 
-    twitter_speaker: 
-  - time: 13:05-13:30
-    track: 2
-    name: Educando a través de la tecnología
-    descrip: 'La charla que propuse es la visión que yo tengo sobre cómo se puede educar a través de la tecnología, no solamente en conocimientos teóricos, sino también con experiencias, cercanía, sensaciones, valores... Cosa que siempre nos ha parecido fundamental.<br/>A través de las herramientas con las que trabajamos en la clase, conseguimos obtener tanto conocimientos acerca de programación, electrónica y demás, como fomentar el trabajo en equipo, la colaboración, la imaginación...<br/>Nuestra pretensión es que los niños no sean meros espectadores, sino que sean creadores de su propia realidad.'
-    speaker: Raquel Garcia Escobedo
-    bio_speaker: 
-    twitter_speaker: 
-  - time: 13:30-13:55
-    track: 2
-    name: 
+    name: Charla
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 13:55-15:30
+  - time: 12:55-13:20
+    track: 2
+    name: Charla
+    descrip: 
+    speaker: Elisabet Lacarra
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 13:20-13:25
+    track: 2
+    name: 5 minutos presentacion patrocinio
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 13:25-13:50
+    track: 2
+    name: Charla
+    descrip: 
+    speaker: Lucia Sanchez
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 13:50-15:30
     track: all
     name: COMIDA
     descrip: 
@@ -628,33 +663,40 @@ talks_track_2:
     twitter_speaker: 
   - time: 15:30-15:55
     track: 2
-    name: 'Mujeres en ciberseguridad: ¡cambiemos los números!'
+    name: Charla
     descrip: 
-    speaker: Carmen Lopez
+    speaker: Marisa Claver Baron
     bio_speaker: 
     twitter_speaker: 
-  - time: 15:55-16:20
+  - time: 15:55-16:05
     track: 2
-    name: Sin género de dudas, tecnología
-    descrip: 'Esta charla pretende abrir un espacio para reflexionar sobre cómo los estereotipos de género afectan a la actitud que toman las mujeres en el ámbito de la tecnología.'
-    speaker: Luisa Lahoz Folguera
+    name: Charla
+    descrip: 
+    speaker: Ana Belén Cambra Linés
     bio_speaker: 
     twitter_speaker: 
-  - time: 16:20-16:45
+  - time: 16:05-16:10
     track: 2
-    name: 
+    name: 5 minutos presentacion patrocinio
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 16:45-17:05
+  - time: 16:10-16:35
     track: 2
-    name: Como llevar a cabo un Think Aloud Test
-    descrip: 'Ponencia sobre el Think Aloud Test, un test de usabilidad con usuarios reales que busca mejorar un producto digital. Hablaremos de la importancia de realizar este tipo de test y de los pasos a seguir para su correcta realización.'
-    speaker: Veronica Abizanda
+    name: Charla
+    descrip: 
+    speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 17:05-17:25
+  - time: 16:35-17:00
+    track: 2
+    name: Charla
+    descrip: 
+    speaker: Lucia Gomez Lopez
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 17:00-17:25
     track: all
     name: DESCANSO CAFÉ
     descrip: 
@@ -663,33 +705,19 @@ talks_track_2:
     twitter_speaker: 
   - time: 17:25-17:50
     track: 2
-    name: Web municipal
+    name: Charla
     descrip: 
-    speaker: Maria Jesus Fernandez
+    speaker: Mireia Cabañes
     bio_speaker: 
     twitter_speaker: 
   - time: 17:50-18:15
-    track: 2
-    name: ¿Cómo averiguamos si un bebé puede ver bien?
-    descrip: 
-    speaker: Marta Ortin Obon
-    bio_speaker: 
-    twitter_speaker: 
-  - time: 18:15-18:40
-    track: 2
-    name: 
-    descrip: 
-    speaker: 
-    bio_speaker: 
-    twitter_speaker: 
-  - time: 18:40-19:00
     track: all
     name: MONOLOGOS
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: '19:00'
+  - time: '18:15-19:00'
     track: all
     name: CIERRE
     descrip: 
