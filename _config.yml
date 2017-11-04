@@ -586,8 +586,9 @@ talks_track_2:
     twitter_speaker: 
   - time: 15:45-16:10
     track: 2
-    name: CHARLA INTELYGENZ
-    descrip: 
+    name: 'Scrum my front: Cómo es mi día a día ágil como desarrolladora front'
+    descrip: '
+¿Quieres saber como se organiza el desarrollo ágil de una aplicación web? ¡Yo te lo cuento! Desde el backlog al MPV, de los prototipos a las integraciones... Todo mi día a día en 20 minutos.'
     speaker: Noemi Medina (INTELYGENZ)
     bio_speaker: 
     twitter_speaker: 
@@ -600,9 +601,9 @@ talks_track_2:
     twitter_speaker: 
   - time: 16:30-16:55
     track: 2
-    name: CHARLA CENTRAL DE RESERVAS
+    name: 'Cómo empalizar con el usuario desde el backend'
     descrip: 
-    speaker: Belen Ortega
+    speaker: Belen Ortega (CENTRAL DE RESERVAS)
     bio_speaker: 
     twitter_speaker: 
   - time: 17:00-17:30
