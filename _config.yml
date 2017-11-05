@@ -150,11 +150,11 @@ speakers:
     image:
     twitter_account: silviacasas
     linkedin_account:
-#  - name: Marisa Claver Baron
-#    bio: 
-#    image:
-#    twitter_account: marisa_claver
-#    linkedin_account:
+  - name: Marisa Claver Baron
+    bio: 
+    image: 
+    twitter_account: marisa_claver
+    linkedin_account:
   - name: Valeria Corrales
     bio: 'Soy una niña de Huesca, tengo 9 años. Me gusta mucho el deporte, juego a tenis y hago atletismo. <br/>Me encanta crear y construir cosas, hacer historias animadas con personajes inventados, programar juegos y robots, jugar con Minecraft y las mates. <br/>Escribo cosas en un blog y subo muchos vídeos de todo lo que voy haciendo a mi canal de Youtube.'
     image:
@@ -389,7 +389,7 @@ talks_track_1:
   - time: '10:30-10:55'
     track: 1
     name: 'Experiencias de una ingeniero senior: del amperio a la gestión de equipos'
-    descrip: ''
+    descrip: 'El contenido de la charla pretende a través de mi experiencia personal y partiendo de cómo una mujer con un título de ingeniería industrial en la mano se enfrenta al mercado laboral en el año 1991.<br/>En estos 26 años la sociedad y las empresas han cambiado tecnológicamente a pasos agigantados, pero los roles sociales, la gestión de los recursos humanos, la visibilidad de la mujer STEM no ha avanzado en igual proporción.<br/>¿Por qué a las niñas no les gustan las matemáticas? ¿Qué estamos haciendo mal? ¿Por qué seguimos en un ratio de puestos de dirección que no se corresponde con la preparación académica (y emocional)? ¿Qué factores influyen?<br/>Trataré de exponer qué experiencias he vivido o he visto en relación a ello, al objeto de ofrecer sugerencias para que la mujer tecnológica rompa su propio techo de cristal y ocupe el lugar que merece, no por el simple hecho de ser mujer, sino porque se están desperdiciando objetivamente sus grandes capacidades para el desarrollo de las empresas y la sociedad.'
     speaker: Marisa Claver Baron
     bio_speaker: 
     twitter_speaker: 
@@ -587,8 +587,7 @@ talks_track_2:
   - time: 15:45-16:10
     track: 2
     name: 'Scrum my front: Cómo es mi día a día ágil como desarrolladora front'
-    descrip: '
-¿Quieres saber como se organiza el desarrollo ágil de una aplicación web? ¡Yo te lo cuento! Desde el backlog al MPV, de los prototipos a las integraciones... Todo mi día a día en 20 minutos.'
+    descrip: '¿Quieres saber como se organiza el desarrollo ágil de una aplicación web? ¡Yo te lo cuento! Desde el backlog al MPV, de los prototipos a las integraciones... Todo mi día a día en 20 minutos.'
     speaker: Noemi Medina (INTELYGENZ)
     bio_speaker: 
     twitter_speaker: 
@@ -652,7 +651,7 @@ workshops_track_1:
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 10:00-10:15
+  - time: 10:00-10:30
     time_start: '10:00'
     duration: 1
     track: all
@@ -661,8 +660,8 @@ workshops_track_1:
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 10:15-11:30
-    time_start: '10:15'
+  - time: 10:30-11:30
+    time_start: '10:30'
     duration: 1
     track: workshop
     name: 
@@ -744,7 +743,7 @@ workshops_track_2:
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 10:00-10:15
+  - time: 10:00-10:30
     time_start: '10:00'
     duration: 1
     track: all
@@ -753,8 +752,8 @@ workshops_track_2:
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 10:15-13:00
-    time_start: '10:15'
+  - time: 10:30-13:00
+    time_start: '10:30'
     duration: 2
     track: workshop
     name: 'Diseño e impresión 3D con filamento termosensitivo'

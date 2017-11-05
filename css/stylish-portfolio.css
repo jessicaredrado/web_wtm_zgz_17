@@ -841,7 +841,7 @@ ul i {
 
 /* Agenda V2 */
 .agenda-v2 .table-wrapper {
-    overflow-x: scroll;
+    /*overflow-x: scroll;*/
 }
 
 .agenda-v2 table {
