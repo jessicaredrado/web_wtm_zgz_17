@@ -450,6 +450,7 @@ button.close {
 
 footer {
     padding: 100px 0;
+    font-size: 14px;
 }
 
 /* event info */
@@ -613,7 +614,8 @@ footer {
 
 .wtm-highlight {
     color: #00bfa5;
-    font-size: x-300;
+    font-size: x-large;
+    font-weight: bold;
 }
 
 .wtm-highlight-no-bold {
