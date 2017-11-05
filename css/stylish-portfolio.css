@@ -87,6 +87,7 @@ hr.small {
     -ms-transition: all 0.4s ease 0s;
     -o-transition: all 0.4s ease 0s;
     transition: all 0.4s ease 0s;
+    font-size: 14px;
 }
 
 .sidebar-nav {
@@ -846,7 +847,7 @@ ul i {
 
 .agenda-v2 table {
     border: 2px solid white;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 22px;
     margin-bottom: 40px;
 }
@@ -897,11 +898,15 @@ ul i {
     .agenda-v2 table tr td:first-child {
         text-align: left;
     }
+    .agenda-v2 table {
+        font-size: 18px !important;
+    }
 } 
 
 @media(max-width:414px) {
     .agenda-v2 table {
         width: 414px;
+        font-size: 14px !important;
     }
 } 
 
@@ -927,4 +932,8 @@ ul i {
 .agenda-v2 .modal-body hr {
     border-top: 8px solid #4285f4;
     border-bottom: none;
+}
+
+.speakers .modal-body {
+    font-size: 17px;
 }

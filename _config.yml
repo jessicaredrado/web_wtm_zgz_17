@@ -118,11 +118,16 @@ speakers:
     image:
     twitter_account: veniabi
     linkedin_account: veronicaabizanda 
-#  - name: Marta Azanza
-#    bio: 
-#    image:
-#    twitter_account: 
-#    linkedin_account:
+  - name: Isabel Agustín Lafuente
+    bio: 'Isabel Agustín Lafuente, 24 años y nacida en Zaragoza.<br/>Estudié el grado de Ingeniería Electrónica y Automática en la Universidad de Zaragoza motivada por conocer el funcionamiento de la tecnología. Tras finalizar mis estudios y conocer el mundo de la informática comencé ahí mi carrera profesional impresionada por los conocimientos técnicos de la gente que me rodea, abriéndome camino en un mundo de tecnología que jamás pude imaginar. Soy una enamorada del aprendizaje continuo y la enseñanza. Actualmente trabajo en adidas en el área de testing de software.'
+    image: img/ponentes/isabel_agustin.png
+    twitter_account: 
+    linkedin_account: isabel-agustin-lafuente-439833b8
+  - name: Marta Azanza Hernandez
+    bio: 'Me llamo Marta y son periodista de formación y vocación. Después de años recorriendo periódicos y emisoras de todo Aragón, decidí que era el momento de montar mi propio medio, que me ha dado las grandes alegrías de mi  vida (y algún que otro disgusto).Tras éxitos y fracasos, esta primavera empecé a llevar la Comunicación del Instituto Aragonés de Ciencias de la Salud.'
+    image: 
+    twitter_account: 
+    linkedin_account:
   - name: Maria Berenguer
     bio: 'Scrum master de profesión, ingeniera informática de formación. Las metodologías ágiles, la actuación y el teatro son mi pasión. Durante años he trabajado en el desarrollo de software, y más específicamente en gestión de proyectos. Hace 6 años un amigo del trabajo me dijo: "María, tú eres ágil y todavía no lo sabes". Y desde ese momento me interesé por las metodologías ágiles, comencé a participar de la comunidad Agile Aragón, primero escuchando, y en seguida participando activamente, en coding dojos, charlas de introducción, talleres, cursos y cualquier tipo de "sarao" que se organizara. Soy aprendiz de Agile (siempre lo seré) y disfruto compartiendo las experiencias e inquietudes que tengo acerca de este mundo. Actualmente tengo la suerte de dedicarme profesionalmente a ello. He estado un año y medio en Mallorca trabajando como Scrum Master de equipos y agente de cambio. Ahora regreso a Zaragoza, y comienzo una nueva aventura como Scrum Master, en Vueling.'
     image:
@@ -165,11 +170,11 @@ speakers:
     image:
     twitter_account: etopia_kids
     linkedin_account:
-#  - name: Maria Jesus Fernandez
-#    bio: 
-#    image: img/ponentes/maria_jesus_fernandez.jpg
-#    twitter_account: 
-#    linkedin_account:
+  - name: Maria Jesus Fernandez
+    bio: 'María Jesús Fernández Ruiz es Jefa de la Oficina de Participación, Transparencia y Gobierno Abierto. Desde su inicio en 1994 se ocupa del desarrollo, dirección y gestión de la Sede Electrónica del Ayuntamiento de Zaragoza y desde 2012 es la responsable de la Plataforma de Gobierno Abierto y de las iniciativas relacionadas con Open Data en el Ayuntamiento de Zaragoza.  <br/>También es responsable de la gestión del Portal Corporativo, así como de la gestión de la información necesaria para dar una respuesta clara y concreta a las demandas que llegan del ciudadano a través del servicio 010. Actualmente también participa de manera activa en la “Comisión Técnica para la Implantación de la Administración Electrónica” en el Excmo Ayuntamiento de Zaragoza. <br/>Ejerce como ponente y formadora y ha participado en diferentes proyectos nacionales y europeos. A lo largo de su carrera ha recibido numerosos reconocimientos por su labor'
+    image: img/ponentes/maria_jesus_fernandez.jpg
+    twitter_account: 
+    linkedin_account:
   - name: Raquel Garcia Escobedo
     bio: 'Raquel García Escobedo, 31 años y nacida en Zaragoza.<br/>Soy programadora informática, co-fundadora de Crom Developer, monitora de tiempo Libre, Directora de Campamentos... Enamorada de la formación, y del trabajo con los niños y niñas.'
     image: img/ponentes/raquel_garcia.jpg
@@ -220,16 +225,21 @@ speakers:
     image: img/ponentes/noemi_medina.jpg
     twitter_account: 
     linkedin_account:
+  - name: Belen Ortega
+    bio: 'Belén Ortega es desarrolladora backend en Centraldereservas.com, portal español de reserva de alojamiento online. Es Técnico Superior de Informática Empresarial, y tiene una amplia experiencia (más de 13 años) como developer en PHP, MySQL y Zend Framework. Actualmente, integrando las tecnologías de frontend en el portal de clientes. '
+    image: 
+    twitter_account: 
+    linkedin_account: 
   - name: Marta Ortin Obon
     bio: 'Marta Ortín es investigadora postdoctoral en el Graphics and Imaging Lab de la Universidad de Zaragoza. Obtuvo el Máster en Ingeniería de Sistemas e Informática en 2012 en la Universidad de Zaragoza, y el Doctorado en Ingeniería Informática en 2016 en la misma universidad. Ha realizado estancias en la Universidad de Ferrara (Italia) y en Intel Mobile Communications (Munich, Alemania). Su investigación se centra en captura y modelado de apariencia de materiales, renderizado en tiempo real, y desarrollo de aplicaciones haciendo uso de nuevas tecnologías. '
     image: img/ponentes/marta_ortin.jpg
     twitter_account: 
     linkedin_account:
-#  - name: Mayte Ortin Puertolas
-#    bio: 'Diplomada en Estadística por la Universidad de Zaragoza.<br/>Actualmente Directora Gerente de Aragonesa de Servicios Telemáticos, entidad pública del Gobierno de Aragón responsable de las infraestructuras y servicios en  el ámbito de las tecnologías de la información y las telecomunicaciones.<br/>Su andadura profesional comenzó en 1999 en el sector de las TIC donde ha desempeñado funciones de dirección de negocio, gestión de proyectos e ingeniería del software. '
-##    image: 
-#    twitter_account: 
-#    linkedin_account:
+  - name: Mayte Ortin Puertolas
+    bio: 'Diplomada en Estadística por la Universidad de Zaragoza.<br/>Actualmente Directora Gerente de Aragonesa de Servicios Telemáticos, entidad pública del Gobierno de Aragón responsable de las infraestructuras y servicios en  el ámbito de las tecnologías de la información y las telecomunicaciones.<br/>Su andadura profesional comenzó en 1999 en el sector de las TIC donde ha desempeñado funciones de dirección de negocio, gestión de proyectos e ingeniería del software. '
+    image: 
+    twitter_account: MayteOrtin
+    linkedin_account:
   - name: Marta Perez Campos
     bio: 'Estudié Bellas Artes en la Universidad de Zaragoza donde principalmente empleé como medio de expresión el video y la fotografía. Tras finalizar mis estudios, me trasladé a Berlin y comencé a interesarme en el arte digital, instalaciones interactivas y proyectos artísticos en los que se proponen nuevas formas de interacción y se cuestionan las existentes. Este interés me llevo a comenzar el master en artes digitales Interface Cultures en la Kunstuni de Linz (Austria) y a comenzar Ingeniería Informática por la UNED. Actualmente, estoy escribiendo mi trabajo fin de master, en el que las interferencias generadas en la comunicación humana son consideradas como motor e inspiración para crear nuevas interfaces.'
     image: img/ponentes/marta_perez.jpg
@@ -237,7 +247,7 @@ speakers:
     linkedin_account:
   - name: Cristina Pérez Galán
     bio: 'Cristina Pérez Galán (Zaragoza, 1983) es Dra. en Historia Medieval y Máster en Comunicación y Periodismo por la Universidad de Zaragoza. Ha trabajado en diversos medios de comunicación (Cadena Ser, Aragón Televisión) y en la Universidad de Zaragoza. En Torresburriel Estudio se ocupa del research y el testing, y además es la responsable de UX Learn, la división de formación online de la compañía.'
-    image: img/ponentes/cristina_perez.jpg
+    image: img/ponentes/cristina_perez.png
     twitter_account: cristinapg
     linkedin_account:
   - name: Pixel y Pincel
@@ -249,6 +259,11 @@ speakers:
     bio: 'MªPilar Jiménez de Bagüés, María Pilar Lozano Bernal y María Luisa Sarsa Sarsa'
     image:
     twitter_account: RISArchers
+    linkedin_account:
+  - name: Paloma Royo
+    bio: 'Graduada en Ingeniearía electrónica y automática en la universidad de Zaragoza. El interés por la tecnología y el querer afrontar nuevos retos me llevó al mundo del desarrollo software.Actualmente trabajo desarrollando aplicaciones móviles en adidas. No hay nada mejor que poder formarte y crecer profesionalmente en lo que te apasiona!.'
+    image:
+    twitter_account: plmrc_
     linkedin_account:
   - name: Diana Ruiz
     bio: 'Desde que de adolescente sufriera un derrame cerebral tuvo claro que quería dedicarse a mejorar la calidad de la vida diaria de cualquier tipo de pacientes. Diana Ruiz es ahora doctora en robótica y se ha dedicado a explorar la relación entre el cerebro y coordinación motora con las señales biológicas del cuerpo humano para aplicaciones de sistemas exoesqueléticos y neuroprotésicos.<br/>Ha completado su formación con estancias de investigación en universidades internacionales. Ha estado inmersa en proyectos en el área de neurorehabilitación, lo que le ha permitido trabajar activamente en equipos multidisciplinares y colaborar con Hospitales de referencia.<br/>Actualmente, Diana es COO en Exovite, donde ha encontrado en un lugar donde compatibilizar la investigación en señales biomédicas con su otra gran pasión, la de ser madre.'
@@ -381,7 +396,7 @@ talks_track_1:
     twitter_speaker: 
   - time: 10:00-10:30
     track: all
-    name: PRESENTACIÓN
+    name: 'PRESENTACIÓN: Laura Lacarra (Track 1)'
     descrip: 
     speaker: 
     bio_speaker: 
@@ -396,7 +411,7 @@ talks_track_1:
   - time: '11:00-11:25'
     track: 1
     name: 'Usos inesperados para objetos comunes'
-    descrip: 
+    descrip: 'Una aspiradora y un proyector que se convierten en instrumentos musicales, cajas de música que traducen un calendario en una melodía, un paraguas que muestra tu estado de ánimo o lámparas que a parte de alumbrar, te enseñan los dientes.<br/>En esta charla se presentarán proyectos de mujeres artistas que han intervenido objetos comunes y les han proporcionado un nuevo uso utilizando herramientas como Arduino y sus derivados. <br/>Muchas de ellas son estudiantes del master Interface Cultures de la Kunstuni de Linz. Sus proyectos se han presentado en performances, exposiciones, y la mayor parte de ellos han sido creados para que el público pueda interactuar con ellos y cuestionarse su uso. Algunas de las artistas son: Ilona Stütz, Julia del Río, Klimentina Hristova, Or Wolff o Yen Tzu Chang.'
     speaker: Marta Perez Campos
     bio_speaker: 
     twitter_speaker: 
@@ -424,22 +439,22 @@ talks_track_1:
   - time: 12:45-13:10
     track: 1
     name: 'Una sede electronica para la igualdad de oportunidades'
-    descrip: 
+    descrip: 'Como responsable de la web municipal en mi ponencia explicaré cómo se ha ido desarrollando la sede electrónica del Ayuntamiento de Zaragoza, en qué manera ha contribuido a la igualdad de oportunidades y se explicará también qué características y pilares la han sostenido a lo largo de las distintas etapas del proyecto.'
     speaker: Maria Jesus Fernandez Ruiz
     bio_speaker: 
     twitter_speaker: 
   - time: 13:15-13:40
     track: 1
     name: 'Cómo Youtube nos ayuda a conseguir nuestros sueños'
-    descrip: 
+    descrip: 'Voy a hablar sobre como se puede aprender de todo a través de youtube de manera gratuita, porqué todo el mundo debería realizar un proyecto personal, la necesidad de tener foco para sacarle partido a estos recursos y sobre la necesidad de pedir ayuda. '
     speaker: Lucia Sanchez
     bio_speaker: 
     twitter_speaker: 
   - time: 13:45-14:10
     track: 1
     name: 'No, este robot no lo ha hecho mi hermano'
-    descrip: 
-    speaker: Valeria Corrales
+    descrip: 'Todos tenemos una gran curiosidad científica cuando somos pequeños, pero debemos alimentarla para que se desarrolle.<br/>Ahora existen herramientas muy potentes para trabajar tecnología con niños. ¿Te da miedo? No hace falta tener un gran dominio de la materia, en esta charla mostraremos proyectos realizados por una niña de 9 años y animaremos a otras niñas a interesarse por el mundo de la tecnología. ¡Es algo muy divertido!'
+    speaker: Valeria Corrales y Patricia Heredia Gil
     bio_speaker: 
     twitter_speaker: 
   - time: 14:15-15:45
@@ -480,27 +495,27 @@ talks_track_1:
   - time: 17:30-17:55
     track: 1
     name: 'Educando a través de la tecnología'
-    descrip: 
+    descrip: 'Esta charla es la visión que yo tengo sobre cómo se puede educar a través de la tecnología, no solamente en conocimientos teóricos, sino también con experiencias, cercanía, sensaciones, valores... Cosa que siempre nos ha parecido fundamental.<br/>A través de las herramientas con las que trabajamos en la clase, conseguimos obtener tanto conocimientos acerca de programación, electrónica y demás, como fomentar el trabajo en equipo, la colaboración, la imaginación...<br/>Nuestra pretensión es que los niños no sean meros espectadores, sino que sean creadores de su propia realidad.'
     speaker: Raquel García Escobedo
     bio_speaker: 
     twitter_speaker: 
   - time: 18:00-18:25
     track: 1
     name: 'Mujeres en ciberseguridad: ¡cambiemos los números!'
-    descrip: 
+    descrip: 'La ciberseguridad está de moda. Casi cada día, los medios de comunicación se hacen eco de alguna noticia relacionada con la seguridad informática. Empresas y organizaciones de todo tipo son cada vez más conscientes de la importancia de una buena estrategia en la materia y están tomando medidas. Sin embargo, y a pesar del auge, hay pocos profesionales capacitados y el ratio de mujeres es desesperanzador: no supera el 10%<br/>¿Qué es realmente la ciberseguridad? ¿Qué podemos aportar las mujeres? ¿Cómo podemos hacerla más atractiva? ¿Es posible cambiar los números? ¡Hablemos!'
     speaker: Carmen Lopez
     bio_speaker: 
     twitter_speaker: 
   - time: 18:30-18:50
     track: all
-    name: MONOLOGOS
+    name: 'MONOLOGOS: RISArchers'
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
   - time: '18:50-19:00'
     track: all
-    name: CIERRE
+    name: 'CIERRE: Staff WTM Zaragoza (Track 1)'
     descrip: 
     speaker: 
     bio_speaker: 
@@ -538,8 +553,8 @@ talks_track_2:
   - time: 11:30-11:40
     track: 2
     name: 'Cómo hacer que alguien de letras se interese por la ciencia a través de la tecnología'
-    descrip: 
-    speaker: Marta Azanza
+    descrip: 'Ahora me parece curiosa la frase de aquel profesor de F&Q que nos decía aquello de "sólo los tontos van a letras" ¡Y a mucha honra! Gracias a ser 100% de letras, hoy todo lo que veo me enamora. Y es eso lo que os quiero contar aquí: Cómo la tecnología puede conseguir que alguien de letras se enamore de la Ciencia'
+    speaker: Marta Azanza Hernandez
     bio_speaker: 
     twitter_speaker: 
   - time: 11:45-12:15
@@ -560,7 +575,7 @@ talks_track_2:
     track: 2
     name: 'From zero to hero @ adidas'
     descrip: 
-    speaker: (ADIDAS)
+    speaker: Isabel Agustin y Paloma Royo (ADIDAS)
     bio_speaker: 
     twitter_speaker: 
   - time: 13:15-13:40
@@ -615,7 +630,7 @@ talks_track_2:
   - time: 17:30-17:55
     track: 2
     name: '¿Cómo averiguamos si un bebé puede ver bien?'
-    descrip: 
+    descrip: 'Es muy difícil diagnosticar problemas visuales en bebés o niños muy pequeños porque no podemos comunicarnos con ellos. ¡Pero nosotros tenemos la solución! Utilizamos un dispositivo llamado eye tracker que nos permite saber a qué punto de la pantalla de un ordenador está mirando el niño. Gracias a esta tecnología, hemos diseñado varios test que nos permiten averiguar si los niños tienen problemas de vista.'
     speaker: Marta Ortin
     bio_speaker: 
     twitter_speaker: 

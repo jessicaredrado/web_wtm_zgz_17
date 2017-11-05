@@ -40,6 +40,9 @@
                   {% assign talk_track_1_name = talk_track_1.name | strip_newlines %}
                   {% assign talk_track_2_name = talk_track_2.name | strip_newlines %}
 
+                  {% assign talk_track_1_descrip = talk_track_1.descrip | strip_newlines %}
+                  {% assign talk_track_2_descrip = talk_track_2.descrip | strip_newlines %}
+
                   {% if talk_track_1_name == "" %}
 
                 <td class="empty"></td>
@@ -59,7 +62,11 @@
                           <h4 class="modal-title"><strong>{{ talk_track_1.name }}</strong></h4>
                         </div>
                         <div class="modal-body">
+                          {% if talk_track_1_descrip != ""  %}
                           <p>{{ talk_track_1.descrip }}</p>
+                          {% else %}
+                          <p>Más información próximamente</p>
+                          {% endif %}
                           <hr class="small">
                           <p><strong>{{ talk_track_1.speaker }}</strong></p>
                           <!--<hr class="small">
@@ -94,7 +101,11 @@
                           <h4 class="modal-title"><strong>{{ talk_track_2.name }}</strong></h4>
                         </div>
                         <div class="modal-body">
+                          {% if talk_track_2_descrip != ""  %}
                           <p>{{ talk_track_2.descrip }}</p>
+                          {% else %}
+                          <p>Más información próximamente</p>
+                          {% endif %}
                           <hr class="small"/>
                           <p><strong>{{ talk_track_2.speaker }}</strong></p>
                           <!--<hr class="small"/>
