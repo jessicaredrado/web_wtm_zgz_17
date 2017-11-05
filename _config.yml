@@ -318,6 +318,11 @@ sponsors_platinum:
     image: img/patrocinadores/platinum/central_reservas.png
     web: https://www.centraldereservas.com/
     twitter: centralreservas
+  - name: Google
+    text: 
+    image: img/patrocinadores/platinum/google.png
+    web: https://www.google.es/
+    twitter: GoogleES
 
 sponsors_gold:
   #- name: Hiberus Tecnologia
