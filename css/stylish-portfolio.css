@@ -840,6 +840,10 @@ ul i {
 
 
 /* Agenda V2 */
+.agenda-v2 .table-wrapper {
+    overflow-x: scroll;
+}
+
 .agenda-v2 table {
     border: 2px solid white;
     font-size: 20px;
@@ -863,6 +867,11 @@ ul i {
     position: relative;
 }
 
+.agenda-v2 table .small {
+    background: rgb(190, 213, 252);
+    color: #4385f4;
+}
+
 .agenda-v2 table tr td:first-child {
     background: #f8f8f8;
     font-size: 16px;
@@ -884,8 +893,20 @@ ul i {
   text-shadow: 0 1px 1px white;
 }
 
+@media(max-width:768px) {
+    .agenda-v2 table tr td:first-child {
+        text-align: left;
+    }
+} 
+
+@media(max-width:414px) {
+    .agenda-v2 table {
+        width: 414px;
+    }
+} 
+
 /* Modal Agenda */
-.agenda .modal-header {
+.agenda-v2 .modal-header {
     background: rgba(66, 161, 202, .1);
     border: none;
     color: #4285f4;
@@ -893,12 +914,17 @@ ul i {
     padding-right: 40px;
 }
 
-.agenda .modal-content {
+.agenda-v2 .modal-content {
     font-size: 17px;
 }
 
-.agenda .modal-body {
+.agenda-v2 .modal-body {
     display: block;
     font-size: 17px;
     padding: 20px;
+}
+
+.agenda-v2 .modal-body hr {
+    border-top: 8px solid #4285f4;
+    border-bottom: none;
 }
