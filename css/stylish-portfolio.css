@@ -939,3 +939,6 @@ ul i {
 .speakers .modal-body {
     font-size: 17px;
 }
+.table-nonfluid {
+   width: auto !important;
+}

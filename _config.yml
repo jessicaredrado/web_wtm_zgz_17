@@ -126,8 +126,8 @@ speakers:
   - name: Marta Azanza Hernandez
     bio: 'Me llamo Marta y son periodista de formación y vocación. Después de años recorriendo periódicos y emisoras de todo Aragón, decidí que era el momento de montar mi propio medio, que me ha dado las grandes alegrías de mi  vida (y algún que otro disgusto).Tras éxitos y fracasos, esta primavera empecé a llevar la Comunicación del Instituto Aragonés de Ciencias de la Salud.'
     image: 
-    twitter_account: 
-    linkedin_account:
+    twitter_account: MartaAzanza
+    linkedin_account: marta-azanza-8b985b29
   - name: Maria Berenguer
     bio: 'Scrum master de profesión, ingeniera informática de formación. Las metodologías ágiles, la actuación y el teatro son mi pasión. Durante años he trabajado en el desarrollo de software, y más específicamente en gestión de proyectos. Hace 6 años un amigo del trabajo me dijo: "María, tú eres ágil y todavía no lo sabes". Y desde ese momento me interesé por las metodologías ágiles, comencé a participar de la comunidad Agile Aragón, primero escuchando, y en seguida participando activamente, en coding dojos, charlas de introducción, talleres, cursos y cualquier tipo de "sarao" que se organizara. Soy aprendiz de Agile (siempre lo seré) y disfruto compartiendo las experiencias e inquietudes que tengo acerca de este mundo. Actualmente tengo la suerte de dedicarme profesionalmente a ello. He estado un año y medio en Mallorca trabajando como Scrum Master de equipos y agente de cambio. Ahora regreso a Zaragoza, y comienzo una nueva aventura como Scrum Master, en Vueling.'
     image:
@@ -156,7 +156,7 @@ speakers:
     twitter_account: silviacasas
     linkedin_account:
   - name: Marisa Claver Baron
-    bio: 
+    bio: 'Nació en Zaragoza, estudió ingeniería industrial, especialidad eléctrica. Comenzó su trayectoria profesional en Madrid, regresando posteriormente a su ciudad natal.<br/>AENOR le solicitó establecer su Delegación de Aragón, en la que está al frente desde hace 20 años.<br/>Apasionada de las motos, siempre luchó para ser considerada por sus capacidades, sin condiciones de género.<br/>Ha participado en asociaciones y colegios profesionales con objeto de normalizar el papel de la mujer en roles asignados tradicionalmente a géneros masculinos.'
     image: 
     twitter_account: marisa_claver
     linkedin_account:
@@ -184,7 +184,7 @@ speakers:
     bio: 'Me llamo Lucía y siempre me ha gustado inventar cosas, así que estudié Ingeniería Informática con la idea de participar de esta gran revolución tecnológica que nos rodea. Trabajar mano a mano con diseñadores me hizo darme cuenta de que me gustaba más su trabajo que el mío, así que empecé a formarme por mi cuenta hasta que decidí dar un paso más y estudiar Diseño de productos digitales para cambiar de carrera profesional. Actualmente trabajo en Tuenti/Telefónica Digital como diseñadora UX y formo parte de la organización del IxDA en Madrid.'
     image: img/ponentes/lucia_gomez.jpg
     twitter_account: malakatonez
-    linkedin_account: 
+    linkedin_account: luciagomezlopez
   - name: Patricia Heredia Gil
     bio: 'Ingeniera de Telecomunicaciones por la Universidad de Zaragoza. Dedicada durante más de 8 años al diseño y desarrollo de equipos electrónicos para sistemas RTOS. Creadora  del proyecto MiniVinci, empresa en la que actualmente, imparte talleres a niños y adolescentes y ayuda a fomentar el interés por la tecnología en niñas y mujeres apoyando diversas iniciativas.'
     image:
@@ -227,7 +227,7 @@ speakers:
     linkedin_account:
   - name: Belen Ortega
     bio: 'Belén Ortega es desarrolladora backend en Centraldereservas.com, portal español de reserva de alojamiento online. Es Técnico Superior de Informática Empresarial, y tiene una amplia experiencia (más de 13 años) como developer en PHP, MySQL y Zend Framework. Actualmente, integrando las tecnologías de frontend en el portal de clientes. '
-    image: 
+    image: img/ponentes/belen_ortega.jpg
     twitter_account: 
     linkedin_account: 
   - name: Marta Ortin Obon
@@ -413,11 +413,11 @@ talks_track_1:
     speaker: Marisa Claver Baron
     bio_speaker: 
     twitter_speaker: 
-  - time: '11:00-11:25'
+  - time: 11:00-11:25
     track: 1
-    name: 'Usos inesperados para objetos comunes'
-    descrip: 'Una aspiradora y un proyector que se convierten en instrumentos musicales, cajas de música que traducen un calendario en una melodía, un paraguas que muestra tu estado de ánimo o lámparas que a parte de alumbrar, te enseñan los dientes.<br/>En esta charla se presentarán proyectos de mujeres artistas que han intervenido objetos comunes y les han proporcionado un nuevo uso utilizando herramientas como Arduino y sus derivados. <br/>Muchas de ellas son estudiantes del master Interface Cultures de la Kunstuni de Linz. Sus proyectos se han presentado en performances, exposiciones, y la mayor parte de ellos han sido creados para que el público pueda interactuar con ellos y cuestionarse su uso. Algunas de las artistas son: Ilona Stütz, Julia del Río, Klimentina Hristova, Or Wolff o Yen Tzu Chang.'
-    speaker: Marta Perez Campos
+    name: 'Más de 10 Años acercando la tecnología a las chicas en Aragón'
+    descrip: 'Será una síntesis de las actividades que desde AMIT-Aragón realizamos para acercar la ingeniería y la tecnología a la sociedad y en particular para que más chicas se animen a realizar estudios técnicos. Más de una década de experiencias, análisis y bastante trabajo.'
+    speaker: María Villarroya Gaudó
     bio_speaker: 
     twitter_speaker: 
   - time: '11:30-11:40'
@@ -437,7 +437,7 @@ talks_track_1:
   - time: 12:15-12:40
     track: 1
     name: 'Tecnología y diseño 3d aplicado a la escenografía'
-    descrip: 
+    descrip: 'Voy a explicar cómo se aplica a tecnología 3d a la escenografía y la tematización para cine y parques temáticos, entre otros. Explicaré cómo desarrollamos en Shu Digital los proyectos para su posterior fabricación mediante impresión 3d y robots de mecanizado. Mostraré los proyectos más importantes en los que hemos trabajado. Mi objetivo es compartir con todos y todas las infinitas posibilidades y aplicaciones que tiene la tecnología 3d dentro del mundo del arte y la creatividad.'
     speaker: Irene Luzan
     bio_speaker: 
     twitter_speaker: 
@@ -486,7 +486,7 @@ talks_track_1:
   - time: 16:30-16:55
     track: 1
     name: 'Mi viaje del desarrollo al diseño y todo lo que aprendí por el camino'
-    descrip: 
+    descrip: 'En los dos últimos años he reconvertido mi carrera profesional del desarrollo al diseño. Entender y participar en  el proceso de la creación del producto digital desde varios puntos de vista me ha hecho darme cuenta de cuantas cosas podemos mejorar en los equipos y los procesos de trabajo cambiando la mentalidad de "desarrollo vs diseño" a "desarrollo + diseño". En esta charla me gustaría compartir con vosotros mi experiencia así como algunos consejos que nos pueden ayudar en el trabajo del día a día.'
     speaker: Lucía Gómez López
     bio_speaker: 
     twitter_speaker: 
@@ -548,11 +548,11 @@ talks_track_2:
     speaker: Veronica Abizanda
     bio_speaker: 
     twitter_speaker: 
-  - time: 11:00-11:25
+  - time: '11:00-11:25'
     track: 2
-    name: 'Más de 10 Años acercando la tecnología a las chicas en Aragón'
-    descrip: 'Será una síntesis de las actividades que desde AMIT-Aragón realizamos para acercar la ingeniería y la tecnología a la sociedad y en particular para que más chicas se animen a realizar estudios técnicos. Más de una década de experiencias, análisis y bastante trabajo.'
-    speaker: María Villarroya Gaudó
+    name: 'Usos inesperados para objetos comunes'
+    descrip: 'Una aspiradora y un proyector que se convierten en instrumentos musicales, cajas de música que traducen un calendario en una melodía, un paraguas que muestra tu estado de ánimo o lámparas que a parte de alumbrar, te enseñan los dientes.<br/>En esta charla se presentarán proyectos de mujeres artistas que han intervenido objetos comunes y les han proporcionado un nuevo uso utilizando herramientas como Arduino y sus derivados. <br/>Muchas de ellas son estudiantes del master Interface Cultures de la Kunstuni de Linz. Sus proyectos se han presentado en performances, exposiciones, y la mayor parte de ellos han sido creados para que el público pueda interactuar con ellos y cuestionarse su uso. Algunas de las artistas son: Ilona Stütz, Julia del Río, Klimentina Hristova, Or Wolff o Yen Tzu Chang.'
+    speaker: Marta Perez Campos
     bio_speaker: 
     twitter_speaker: 
   - time: 11:30-11:40
@@ -579,7 +579,7 @@ talks_track_2:
   - time: 12:45-13:10
     track: 2
     name: 'From zero to hero @ adidas'
-    descrip: 
+    descrip: 'adidas lanza su nueva aplicación móvil a nivel global, analizaremos todo el proceso de desarrollo así como los puntos clave, problemáticas y soluciones que hemos tomado en el camino. Cómo salir a producción sin que tu equipo muera en el intento.'
     speaker: Isabel Agustin y Paloma Royo (ADIDAS)
     bio_speaker: 
     twitter_speaker: 
@@ -621,7 +621,7 @@ talks_track_2:
   - time: 16:30-16:55
     track: 2
     name: 'Cómo empatizar con el usuario desde el backend'
-    descrip: 
+    descrip: 'Quiero compartir mi experiencia como backend en estos últimos años y como desde el backend podemos empalizar con el usuario con estas tres ideas:<br/>1. Cuida tus errores<br/>2. Guía a tus usuarios<br/>3. Muestra lo necesario'
     speaker: Belen Ortega (CENTRAL DE RESERVAS)
     bio_speaker: 
     twitter_speaker: 
