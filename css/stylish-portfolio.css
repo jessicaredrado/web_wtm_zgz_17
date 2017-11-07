@@ -728,7 +728,7 @@ ul i {
 
 /* Code of conduct */
 .code_conduct h2, .code_conduct p, .code_conduct a {
-    color: #333;
+    /*color: #333;*/
 }
 
 #arrow_code_conduct {
