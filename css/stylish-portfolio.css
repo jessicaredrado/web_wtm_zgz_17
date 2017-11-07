@@ -899,6 +899,7 @@ ul i {
 
 @media(max-width:768px) {
     .agenda-v2 table tr td:first-child {
+        font-size: 14px;
         text-align: left;
     }
     .agenda-v2 table {
